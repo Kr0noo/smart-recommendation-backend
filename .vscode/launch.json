@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-BackendCoreApplication<backend-core>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.adderly.backend_core.BackendCoreApplication",
+            "projectName": "backend-core",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
